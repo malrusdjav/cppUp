@@ -1,0 +1,17 @@
+﻿  LC.cpp
+D:\C++(self)\LC\LC\LC.cpp(160,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\C++(self)\LC\LC\LC.cpp(161,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\C++(self)\LC\LC\LC.cpp(162,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\C++(self)\LC\LC\LC.cpp(475,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++(self)\LC\LC\LC.cpp(475,22): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\C++(self)\LC\LC\LC.cpp(476,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++(self)\LC\LC\LC.cpp(476,22): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\C++(self)\LC\LC\LC.cpp(477,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++(self)\LC\LC\LC.cpp(477,25): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\C++(self)\LC\LC\LC.cpp(474,6): warning C4101: resEl: неиспользованная локальная переменная
+D:\C++(self)\LC\LC\LC.cpp(508,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++(self)\LC\LC\LC.cpp(509,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  search.cpp
+  Создание кода...
+D:\C++(self)\LC\LC\LC.cpp(126): warning C4715: CompNum::operator=: значение возвращается не при всех путях выполнения
+  LC.vcxproj -> D:\C++(self)\LC\x64\Debug\LC.exe
